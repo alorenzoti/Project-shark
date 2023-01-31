@@ -14,7 +14,7 @@ Y una segunda parte en la que se examinan los valores con un compromiso claro co
 
 ## Síntesis
 
-![f_s](https://user-images.githubusercontent.com/78368326/215574057-e6bb4214-2a21-4a5a-aeae-09a67e777a01.PNG)
+![f_s](https://github.com/alorenzoti/Project-shark/blob/main/img/f_s.PNG)
 Podemos observar como la inconsistencia de los datos es tan significativa que practicamente deja sin demasiado sentido el resto, si obviamos estos datos , el tiburon blanco resulta el que mayor tasa de aciertos tiene....
 
 ![inj_yeatr](https://user-images.githubusercontent.com/78368326/215574073-ae114308-ae15-4073-843e-1e607f6f2af4.PNG)
